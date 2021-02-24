@@ -1,2 +1,3 @@
 winlog
 linuxlog
+ubuntulog
